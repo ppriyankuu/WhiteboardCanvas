@@ -1,6 +1,6 @@
 # WhiteBoard Canvas
 
-An app just for passing time.
+An app just for passing some time.
 
 ## run
 - npm i
